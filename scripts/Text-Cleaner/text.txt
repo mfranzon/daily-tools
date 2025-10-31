@@ -1,0 +1,5 @@
+"This is a sample sentence with lots of extra     spaces. You might find some weird symbols 
+here: & and ^ and ( and ) and also a couple of unnecessary periods.. Please ignore the fact
+that the word 'Python' is written like this: PyThOn. The deadline is 2024; remember that. We   
+need to focus on delivering a clean, readable script!!!"
+
